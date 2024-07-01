@@ -1,1 +1,4 @@
-Credit to mary and william allred for helping with javascript for this project.
+
+
+
+Credit to mary for helping with javascript for this project.
